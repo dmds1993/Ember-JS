@@ -1,0 +1,1 @@
+/home/daniel/Documents/dev2/ember/ember-tutorial-2/library-app/tmp/creator-output_path-KLmxtuRa.tmp/version.js

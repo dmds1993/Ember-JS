@@ -1,0 +1,1 @@
+/home/daniel/Documents/dev2/ember/ember-tutorial-2/library-app/tmp/funnel-input_base_path-Y5hMS4s2.tmp/0/utils/class-factory.js
